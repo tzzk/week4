@@ -1,0 +1,85 @@
+@font-face{
+    font-family:'Yellowtail';
+    src:url('font/Yellowtail-Regular.ttf');
+
+
+}
+.container{
+    width:100%;
+    display:flex;
+    flex-wrap:wrap;   
+}
+
+.box1{
+     width:20%;
+    height:200px;
+    border:solid 2px blue;
+    flex-grow: 1;
+    border-radius: 10px 150px 0px 150px;
+    background-color:green;
+    font-family: 'Yellowtail', cursive;
+    box-shadow: -5px -5px 10px yellow;
+}
+p{
+    padding:20px;
+}
+
+.box2{
+     width:20%;
+    height:200px;
+     border:solid 2px yellow;
+     flex-grow:1;
+     border-radius:150px 10px 150px 0px;
+     background-color: blue;
+     font-family: 'Roboto', sans-serif;
+     box-shadow: -5px -5px 10px black;
+}
+.box3{
+     width:20%;
+    height:200px;
+     border:solid 2px brown;
+      flex-grow: 1;
+      background-color:navy;
+      box-shadow: -5px -5px 10px red;
+}
+.box4{
+     width:20%;
+    height:200px;
+     flex-grow: 1;
+     border:solid 2px magenta;
+}
+.box5{
+     width:20%;
+      flex-grow: 1;
+    height:200px;
+     border:solid 2px orange;
+     
+}
+.box6{
+     width:20%;
+      flex-grow: 1;
+    height:200px;
+     border:solid 2px black;
+}
+.box7{
+     flex-grow: 1;
+     width:20%;
+    height:200px;
+     border:solid 2px red;
+}
+.box8{
+     flex-grow: 1;
+     width:20%;
+    height:200px;
+     border:solid 2px green;
+}
+.box9{
+     flex-grow: 1;
+    width:20%;
+    height:200px;
+    border:solid 2px green;
+   
+}
+img{
+    border-radius: 200px;
+}

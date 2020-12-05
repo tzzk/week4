@@ -1,0 +1,62 @@
+.cover{
+    width:90%;
+    height:650px;
+    position: absolute;
+    top:0px;
+    left:70px;
+    border:2px solid black;
+
+
+}
+.div1{
+    position: absolute;
+    top:0px;
+    left:100px;
+
+
+}
+.div2{
+    width:200px;
+    height:650px;
+    background-color:black;
+    position: absolute;
+    top:0px;
+    right:250px;
+}
+.hotel{
+    position: absolute;
+    top:40px;
+    right:20px;
+    color:rgb(40, 226, 40);
+    font-size: 23px;
+   
+
+
+}
+.quay{
+    position: absolute;
+    top:70px;
+    right:30px;
+    color:rgb(245, 244, 244);
+    font-size:20px;
+    width:140px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.num{
+    position: absolute;
+    top:130px;
+    right:70px;
+    color:rgb(141, 100, 22);
+    font-size:70px;
+   
+}
+.room{
+    position: absolute;
+    top:200px;
+    right:70px;
+    color:white;
+    font-size:20px;
+
+}

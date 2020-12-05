@@ -1,0 +1,44 @@
+
+.img{
+    width:90%;
+    height:700px;   
+    
+    position: absolute;
+    top:20px;
+    left:70px;      
+  
+}
+.div{
+      
+    width:500px;
+    height:160px;
+    position: absolute;
+    top:190px;
+    left:400px;
+    border:solid black 2px;
+   
+}
+
+.div1{
+    position: absolute;
+    top:50px;
+    left:550px;
+}
+.div2{
+    position: absolute;
+    top:210px;
+    left:560px;
+    
+
+}
+.div3{
+    position: absolute;
+    top:270px;
+    left:440px;
+
+}
+.div4{
+    position: absolute;
+    top:250px;
+    right:250px;
+}
